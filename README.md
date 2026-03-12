@@ -162,3 +162,10 @@ These insights can help transportation services better understand pricing patter
 
 ```bash
 git clone https://github.com/ekendra-yadav/Yellow-Taxi-Trip-Records-Data-Dictionary.git
+```
+
+## ▶ How to Test the Project
+
+```bash
+https://huggingface.co/spaces/ekendra001/taxi-fare-prediction
+```
